@@ -1,0 +1,26 @@
+{
+  "products": [
+
+  {"id":1,"name":"Eastern indigo snake","category":"Maroon"},
+  {"id":2,"name":"Flamingo, chilean","category":"Maroon"},
+  {"id":3,"name":"Mongoose, small indian","category":"Mauv"},
+  {"id":4,"name":"Black-throated cardinal","category":"Violet"},
+  {"id":5,"name":"Owl, burrowing","category":"Yellow"},
+  {"id":6,"name":"Flamingo, lesser","category":"Turquoise"},
+  {"id":7,"name":"Egyptian goose","category":"Crimson"},
+  {"id":8,"name":"Green-winged trumpeter","category":"Violet"},
+  {"id":9,"name":"Hartebeest, red","category":"Turquoise"},
+  {"id":10,"name":"Tropical buckeye butterfly","category":"Turquoise"},
+  {"id":11,"name":"Duck, mountain","category":"Khaki"},
+  {"id":12,"name":"Gull, kelp","category":"Aquamarine"},
+  {"id":13,"name":"Fox, grey","category":"Orange"},
+  {"id":14,"name":"Squirrel, palm","category":"Aquamarine"},
+  {"id":15,"name":"Pale white-eye","category":"Crimson"},
+  {"id":16,"name":"Seal, northern elephant","category":"Puce"},
+  {"id":17,"name":"Phalarope, red","category":"Crimson"},
+  {"id":18,"name":"Horned puffin","category":"Green"},
+  {"id":19,"name":"Smith's bush squirrel","category":"Purple"},
+  {"id":20,"name":"Snake, racer","category":"Khaki"}
+
+  ]
+}
